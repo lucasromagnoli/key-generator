@@ -1,9 +1,11 @@
 # Key Generator Tool
-> Programa desenvolvido com intuito de gerar chaves públicas e privadas.
+> Programa desenvolvido com intuito de gerar chaves públicas e privadas em RSA 2048.
 
 ## Como utilizar
 > Executar o método main que se encontra na classe bootstrap.Ignitor.java;
+
 > Será criado dois arquivos na pasta raiz do projeto:
+
 > public.key e private.key
 
 ## Autor
